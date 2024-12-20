@@ -1,4 +1,4 @@
-# 👨‍🔬 Emmanuel Perez - Ingeniero Químico y Desarrollador Full-Stack (Laravel) 🚀 | Data Scientist (Python) 💡
+# 👨‍🔬 Emmanuel Perez - Ingeniero Químico | Desarrollador Full-Stack (Laravel) 🚀 | Data Scientist (Python) 💡
 
 ¡Hola! Soy Emmanuel, un ingeniero químico apasionado por la tecnología, la programación y optimización de problemas empresariales. .
 
